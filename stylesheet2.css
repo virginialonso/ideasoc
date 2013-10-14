@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  background: transparent url(objectivesbg.png) no-repeat;
+  background-position: top;
+  background-size: 100%; 
+}
+
+#body {
+  font: "Helvetica Light", Arial, sans-serif;
+  font-size: 20px;
+  font-weight: lighter;
+  margin-top: 330px;
+  color: #34495e;
+  text-align: left;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+p {
+  margin-top: 20px;
+}
+
+.sectiontitle {
+  font-size: 70px;
+  text-align: center; 
+  width: 100%;
+  margin-top: 60px;
+}
+
+.centered {
+  text-align: center;
+}
+
+
+
